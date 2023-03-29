@@ -83,3 +83,44 @@ section li {
 }
 
 /*''''''*/
+
+/* FunFackts section*/
+
+.FunFacts {
+  background-color: #e7efff;
+  padding: 20px 20px;
+  color: black;
+}
+.FunFacts h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+.fullbox {
+  display: flex;
+}
+.box1 {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 20px;
+}
+.box2 {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 20px;
+}
+.box1,
+.box2 p {
+  font-size: 14px;
+}
+span {
+  font-size: 24px;
+  font-weight: 35px;
+}
+
+.fimage {
+  height: 200px;
+  width: 200px;
+}
