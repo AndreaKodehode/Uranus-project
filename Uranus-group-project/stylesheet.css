@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Overview section */
 .overview {
   background-color: #7983aa;
@@ -26,3 +27,18 @@ li {
 }
 
 /*''''''*/
+=======
+body {
+  margin: 0%;
+}
+.navbar {
+  background-color: #475276;
+}
+nav ul {
+  list-style-type: none;
+}
+nav li {
+  display: inline-block;
+  padding: 0, 35px;
+}
+>>>>>>> 0431b10c0d208c1dde734f60f1f15721fd02b98a
