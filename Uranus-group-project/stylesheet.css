@@ -144,6 +144,7 @@ section h1 {
 }
 .fullbox {
   display: flex;
+  justify-content: center;
 }
 .box1 {
   display: flex;
@@ -168,5 +169,5 @@ span {
 
 .fimage {
   height: 200px;
-  width: 200px;
+  width: 400px;
 }
