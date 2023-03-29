@@ -53,3 +53,33 @@ nav li a:hover {
   background-image: url(images/Uranus3.jpg);
   background-size: cover;
 }
+
+/* Overview section */
+
+.overview {
+  background-color: #7983aa;
+  color: #f2f2f2;
+  padding: 10px 0;
+}
+.overview-box {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 10px;
+}
+.overview-full {
+  display: flex;
+  justify-content: space-evenly;
+}
+.overview-img {
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 3px 5px black;
+}
+
+section li {
+  padding: 10px 0;
+}
+
+/*''''''*/
