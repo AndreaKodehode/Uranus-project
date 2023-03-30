@@ -163,8 +163,8 @@ section h1 {
 }
 
 .gallery-img {
-  position: relative;
   height: 100px;
+  width: auto;
   border-radius: 20px;
   transition: 0.5s;
 }
