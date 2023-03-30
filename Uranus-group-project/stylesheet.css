@@ -245,11 +245,23 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
 }
 footer a {
-  padding: 20px;
-  gap: 10px;
-  color: white;
+  position: relative;
+  display: flex;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: white;
+  color: #000000;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
 }
 footer a:hover {
+  box-shadow: 2px 2px black;
+  transform: translate(0, -10px);
 }
