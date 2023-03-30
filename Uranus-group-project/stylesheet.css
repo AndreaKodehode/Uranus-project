@@ -48,7 +48,8 @@ nav li a:hover {
   justify-content: center;
   align-items: center;
   height: 700px;
-  font-size: 45px;
+  font-size: 64px;
+  text-shadow: 1px 1px 2px black;
   color: #090255;
   text-decoration: underline solid #090255 1.5px;
   background-image: url(images/Uranus3.jpg);
