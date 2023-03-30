@@ -132,6 +132,25 @@ section h1 {
 }
 /*''''''''''*/
 
+/*Gallery Section*/
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 50px 0;
+}
+.gallery-img {
+  height: 100px;
+  border-radius: 20px;
+  transition: 0.5s;
+}
+
+.gallery-img:hover {
+  height: 300px;
+  width: 300px;
+}
+/*''''''''*/
+
 /* FunFackts section*/
 
 .FunFacts {
