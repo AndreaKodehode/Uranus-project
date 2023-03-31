@@ -44,27 +44,6 @@ nav a:hover {
   transition: all 0.4s ease 0s;
   box-shadow: 5px 5px 5px 2px #000000;
 }
-/*nav ul {
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  gap: 20px;
-}
-nav li {
-  display: inline-block;
-  padding-bottom: 4px;
-  border-bottom: #000000 2px solid;
-}
-nav li a {
-  font-size: 24px;
-  color: white;
-
-  text-decoration: none;
-}
-nav li a:hover {
-  color: aqua;
-  transition: all 0.4s ease 0s;
-}*/
 
 .bg-image {
   display: flex;
